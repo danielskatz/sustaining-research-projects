@@ -2,7 +2,7 @@
 
 *"How can we find funding for our open source project?"*
 
-First things first: This started as a fork from https://github.com/nayafia/lemonade-stand. @nayafia wanted to focus on how people fund their work on open source projects, and not how the projects themselves are sustained, which she thought was out of scope for her document (see https://github.com/nayafia/lemonade-stand/issues/1), so I've created this instead.
+First things first: This started as a fork from https://github.com/nayafia/lemonade-stand. [@nayafia](https://github.com/nayafia) wanted to focus on how people fund their work on open source projects, and not how the projects themselves are sustained, which she thought was out of scope for her document (see https://github.com/nayafia/lemonade-stand/issues/1), so I've created this instead.
 
 Below I've listed every way I know of that people get paid for open source work, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
 
@@ -317,7 +317,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ---
 
 ### Contributing to this guide
-As with the original from @nayafia, this guide welcomes changes and edits.  If something is factually incorrect (especially with a case study example), your edits would be great.  Also, if there's a category that's missing, please add it.
+As with [the original](https://github.com/nayafia/lemonade-stand) from [@nayafia](https://github.com/nayafia), this guide welcomes changes and edits.  If something is factually incorrect (especially with a case study example), your edits would be great.  Also, if there's a category that's missing, please add it.
 
 ### License and attribution
 This guide is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain).
