@@ -70,7 +70,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
 ##Crowdfunding (one-time)
-*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
+*If a project has a specific idea it wants to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the needed funds. Both individuals and companies might be willing to donate to the campaign.*
 
 ####Pros
 * Few strings attached
