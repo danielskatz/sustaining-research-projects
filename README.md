@@ -4,7 +4,7 @@
 
 First things first: This started as a fork from https://github.com/nayafia/lemonade-stand. [@nayafia](https://github.com/nayafia) wanted to focus on how people fund their work on open source projects, and not how the projects themselves are sustained, which she thought was out of scope for her document (see https://github.com/nayafia/lemonade-stand/issues/1), so I've created this instead.
 
-Below I've listed every way I know of that people get paid for open source work, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
+The intent below is to list how project support themselves over time.  Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
 
@@ -205,9 +205,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 ##Consulting & services
-*Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
-
-*If your project is popular, you can also offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
+*A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
 
 ####Pros
 * Business model aligned with something people are willing to pay for
