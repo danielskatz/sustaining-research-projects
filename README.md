@@ -8,7 +8,7 @@ The intent below is to list how project support themselves over time.  Each fund
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
 
-In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.  (All but 6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project))
+In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.
 
 
 ---
@@ -20,7 +20,7 @@ In addition to suggesting ways that individual developers can get paid for their
 3. [Crowdfunding (recurring)](#crowdfunding-recurring)
 4. [Books and merchandise](#books-and-merchandise)
 5. [Advertising & sponsorships](#advertising--sponsorships)
-6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+6. [Industry support](#industry-support)
 7. [Grants](#grants)
 8. [Consulting & services](#consulting--services)
 9. [SaaS](#saas)
@@ -128,26 +128,21 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Hoodie](http://hood.ie/sponsoring/)
 
-##Get hired by a company to work on project
-*Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
+##Industry support
+*Companies sometimes hire individuals to do open source work to support particular projects. Find a company that uses your project, and determine something the project wants to do that the company is willing to put work into*
 
 ####Pros
 * Taps into those who have resources (i.e. companies)
 * Can be well-aligned with company needs
-* Steady income
 
 ####Cons
 * Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
 * Project already needs to be well-known and used
-* Person not contributing to company’s bottom line, which makes them expendable
 * Governance issues, company could have undue influence over project
 * Can affect project dynamics + balance
 
 ####Case Studies
-* [Donald Stufft + Hewlett-Packard and Python packaging (personal effort)](https://twitter.com/dstufft/status/594119386333609984)
-* [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
-* [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
-* [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
+* 
 
 ##Grants
 *Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
