@@ -8,7 +8,7 @@ The intent below is to list how project support themselves over time.  Each fund
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
 
-In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.  (All but 6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project), 7. [Start a project while currently employed](#start-a-project-while-currently-employed))
+In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.  (All but 6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project))
 
 
 ---
@@ -21,14 +21,13 @@ In addition to suggesting ways that individual developers can get paid for their
 4. [Books and merchandise](#books-and-merchandise)
 5. [Advertising & sponsorships](#advertising--sponsorships)
 6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-7. [Start a project while currently employed](#start-a-project-while-currently-employed)
-8. [Grants](#grants)
-9. [Consulting & services](#consulting--services)
-10. [SaaS](#saas)
-11. [Dual license](#dual-license)
-12. [Open core](#open-core)
-13. [Foundations & consortiums](#foundations--consortiums)
-14. [Venture capital](#venture-capital)
+7. [Grants](#grants)
+8. [Consulting & services](#consulting--services)
+9. [SaaS](#saas)
+10. [Dual license](#dual-license)
+11. [Open core](#open-core)
+12. [Foundations & consortiums](#foundations--consortiums)
+13. [Venture capital](#venture-capital)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
@@ -149,27 +148,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
 * [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
-
-##Start a project while currently employed
-*Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
-
-*If you pursue this path, make sure you understand your company's policy on open source work. Some companies encourage employees to contribute to open source during working hours. Some might treat your open source work as a company project. Don't assume anything; ask someone at your company before starting.*
-
-####Pros
-* Freedom to test new ideas without worrying about salary
-* Can be well-aligned with company needs
-* Suitable for newer, experimental ideas
-
-####Cons
-* Need to do it as a side project or be approved to work on it during salaried time
-* Risk of undue company influence
-* Can lead to complicated governance later down the line
-
-####Case Studies
-* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
-* [Google and Go](https://golang.org/doc/faq#history)
-* [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
-* [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 
 ##Grants
 *Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
