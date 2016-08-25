@@ -8,7 +8,7 @@ The intent below is to list how project support themselves over time.  Each fund
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
 
-In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.  (All but 2. [Bounties](#bounties), 7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project), 8. [Start a project while currently employed](#start-a-project-while-currently-employed))
+In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.  (All but 6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project), 7. [Start a project while currently employed](#start-a-project-while-currently-employed))
 
 
 ---
@@ -16,20 +16,19 @@ In addition to suggesting ways that individual developers can get paid for their
 
 # Table of Contents
 1. [Donation button](#donation-button)
-2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Books and merchandise](#books-and-merchandise)
-6. [Advertising & sponsorships](#advertising--sponsorships)
-7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-8. [Start a project while currently employed](#start-a-project-while-currently-employed)
-9. [Grants](#grants)
-10. [Consulting & services](#consulting--services)
-11. [SaaS](#saas)
-12. [Dual license](#dual-license)
-13. [Open core](#open-core)
-14. [Foundations & consortiums](#foundations--consortiums)
-15. [Venture capital](#venture-capital)
+2. [Crowdfunding (one-time)](#crowdfunding-one-time)
+3. [Crowdfunding (recurring)](#crowdfunding-recurring)
+4. [Books and merchandise](#books-and-merchandise)
+5. [Advertising & sponsorships](#advertising--sponsorships)
+6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+7. [Start a project while currently employed](#start-a-project-while-currently-employed)
+8. [Grants](#grants)
+9. [Consulting & services](#consulting--services)
+10. [SaaS](#saas)
+11. [Dual license](#dual-license)
+12. [Open core](#open-core)
+13. [Foundations & consortiums](#foundations--consortiums)
+14. [Venture capital](#venture-capital)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
@@ -51,19 +50,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
-
-##Bounties
-*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
-
-####Pros
-* Open to community participation
-* Money is tied to doing specific work (more like paying for service than donations)
-* Especially popular for security work
-
-####Cons
-* Can create perverse incentives in a project (low quality PRs, distracting priorities)
-* Usually not much money per bounty (~<$500)
-* Doesn’t provide recurring revenue
 
 ####Case Studies
 * [Bountysource](http://bountysource.com)
