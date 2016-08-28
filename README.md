@@ -28,7 +28,7 @@ In addition to suggesting ways that individual developers can get paid for their
 11. [Open core](#open-core)
 12. [Foundations & consortiums](#foundations--consortiums)
 13. [Venture capital](#venture-capital)
-14. [Trademark licensing & Franchising] (#trademark-license)
+14. [Trademark licensing & Franchising](trademark-licensing-&-franchising)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
