@@ -28,7 +28,7 @@ In addition to suggesting ways that individual developers can get paid for their
 11. [Open core](#open-core)
 12. [Foundations & consortiums](#foundations--consortiums)
 13. [Venture capital](#venture-capital)
-14. [Trademark licensing & Franchising](#trademark-licensing-&-franchising)
+14. [Trademark licensing & Franchising](#trademark-licensing-and-franchising)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
@@ -272,7 +272,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
 
-##Trademark Licensing & Franchising
+##Trademark Licensing and Franchising
 *If a FOSS project has a well-known name and large user community, it can potentially capitalize on its trademark as a form of intellectual property to license out to franchises that provide support or hardware appliances that use the software.*
 
 ####Pros
