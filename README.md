@@ -28,6 +28,7 @@ In addition to suggesting ways that individual developers can get paid for their
 11. [Open core](#open-core)
 12. [Foundations & consortiums](#foundations--consortiums)
 13. [Venture capital](#venture-capital)
+14. [Trademark licensing & Franchising] (#trademark-license)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
@@ -270,6 +271,24 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
+
+##Trademark Licensing & Franchising
+*If a FOSS project has a well-known name and large user community, it can potentially capitalize on its trademark as a form of intellectual property to license out to franchises that provide support or hardware appliances that use the software.*
+
+####Pros
+* It works in places where SaaS may not.
+* It requires little upfront capital to deploy this model.
+
+####Cons
+* This is not a solution for software with small communities or a name
+that is not well-known.
+* There has to be profitability in building appliances or franchises for
+support and training. This makes it a better fit for software that is
+complex to setup and maintain.
+
+####Case Studies
+* [Moodle] (https://moodle.com/trademarks/)
+* [Red Hat] (https://www.redhat.com/en/about/trademark-guidelines-and-policies)
 
 ---
 
