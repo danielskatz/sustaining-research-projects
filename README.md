@@ -63,7 +63,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Pros
 * Few strings attached
-* Can be easier for an individual to legally manage via, ex. [Kickstarter](https://kickstarter.com/)
+* Can be easy to legally manage via, ex. [Kickstarter](https://kickstarter.com/)
 
 ####Cons
 * Lots of work involved to market campaign
@@ -75,7 +75,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
-* [RESTful WP-CLI](poststatus.com/kickstarter-open-source-project/)
+* [RESTful WP-CLI](http://poststatus.com/kickstarter-open-source-project/)
 
 ##Crowdfunding (recurring)
 *If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
