@@ -4,11 +4,13 @@
 
 First things first: This started as a fork from https://github.com/nayafia/lemonade-stand. [@nayafia](https://github.com/nayafia) wanted to focus on how people fund their work on open source projects, and not how the projects themselves are sustained, which she thought was out of scope for her document (see https://github.com/nayafia/lemonade-stand/issues/1), so I've created this instead.
 
-The intent below is to list how project support themselves over time.  Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
+A project often starts with a bright idea and an initial commitment of volunteer time, or perhaps, a fixed term grant.  But what happens after that initial activity?  How can the project continue to sustain itself?  (We define sustainability as the capacity to endure.  Software is sustainable if it will continue to be available in the future, on new platforms, and meeting new needs.  [This is from slide 23 of http://www.slideshare.net/danielskatz/scientific-software-challenges-and-community-responses, though it may have been taken from somewhere else earlier - if you know where, please fix this.])
 
-The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
+The intent below is to list how projects do this — support themselves over time.  Each funding category should ideally link to several real examples, and when possible, to a useful article or page instead of just a homepage.
 
-In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.
+The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Another project might provide services and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways a project can survive, so that your project can figure out what works best for you.
+
+[probably drop this sentence later] In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for projects that want to find funding for their project/team.
 
 
 ---
