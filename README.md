@@ -37,7 +37,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
 ## Donation button
-*Stick a donation button on your site. Stripe and PayPal are examples of services you can use to accept donations.*
+*Stick a donation button on your project's site. Stripe and PayPal are examples of services a project can use to accept donations.*
 
 #### Pros
 * Few strings attached
@@ -45,8 +45,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Cons
 * Usually not much money unless you have dedicated fundraising efforts
-* Need a legal entity to donate to (ex. [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com) are fiscal sponsors for this purpose). Harder for individuals or international donations to manage
-* Sometimes not clear who “deserves” money in a project or how it gets distributed
+* Need a legal entity to donate to (ex. [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com), [NumFOCUS](http://www.numfocus.org) are fiscal sponsors for this purpose). Harder for individuals or international donations to manage
+* Sometimes not clear who “deserves” money in a project or to what efforts it gets distributed
+* Likelihood of success related to number of users, not importance of software
 
 ####Case Studies
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
