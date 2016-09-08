@@ -17,24 +17,42 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 
 # Table of Contents
-1. [Donation button](#donation-button)
-2. [Crowdfunding (one-time)](#crowdfunding-one-time)
-3. [Crowdfunding (recurring)](#crowdfunding-recurring)
-4. [Books and merchandise](#books-and-merchandise)
-5. [Advertising & sponsorships](#advertising--sponsorships)
-6. [Industry support](#industry-support)
-7. [Grants](#grants)
-8. [Consulting & services](#consulting--services)
-9. [SaaS](#saas)
-10. [Dual license](#dual-license)
-11. [Open core](#open-core)
-12. [Foundations & consortiums](#foundations--consortiums)
-13. [Venture capital](#venture-capital)
-14. [Trademark licensing & Franchising](#trademark-licensing--franchising)
+1. [Volunteers](#volunteers)
+2. [Donation button](#donation-button)
+3. [Crowdfunding (one-time)](#crowdfunding-one-time)
+4. [Crowdfunding (recurring)](#crowdfunding-recurring)
+5. [Books and merchandise](#books-and-merchandise)
+6. [Advertising & sponsorships](#advertising--sponsorships)
+7. [Industry support](#industry-support)
+8. [Grants](#grants)
+9. [Consulting & services](#consulting--services)
+10. [SaaS](#saas)
+11. [Dual license](#dual-license)
+12. [Open core](#open-core)
+13. [Foundations & consortiums](#foundations--consortiums)
+14. [Venture capital](#venture-capital)
+15. [Trademark licensing & Franchising](#trademark-licensing--franchising)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
+
+## Volunteers
+*Get people to volunteer their time to your project*
+
+#### Pros
+* A good community can become self-sustaining
+* Having a large, diverse set of developers available makes it more likely that one might work on a given issue
+
+####Cons
+* Ethical concerns (ex., see [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) by Ashe Dryden)
+* Organizing large numbers of volunteers can be difficult
+
+####Case Studies
+* [Linux Kernel](https://www.kernel.org)
+* [Mozilla Firefox](https://developer.mozilla.org/en-US/docs/MDN/Community)
+* [Apache Open Office](https://openoffice.apache.org/get-involved.html)
+* [yt](http://yt-project.org)
 
 ## Donation button
 *Stick a donation button on your project's site. Stripe and PayPal are examples of services a project can use to accept donations.*
@@ -53,10 +71,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
-
-####Case Studies
-* [Bountysource](http://bountysource.com)
-* [GitHub Bug Bounty Program](https://bounty.github.com/)
 
 ##Crowdfunding (one-time)
 *If a project has a specific idea it wants to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the needed funds. Both individuals and companies might be willing to donate to the campaign.*
