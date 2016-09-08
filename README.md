@@ -182,7 +182,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 ##Consulting & services
-*A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
+*A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.*
 
 ####Pros
 * Business model aligned with something people are willing to pay for
