@@ -86,13 +86,14 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Companies not always comfortable donating to campaigns
 
 ####Case Studies
+#####Need to check and update
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 * [RESTful WP-CLI](http://poststatus.com/kickstarter-open-source-project/)
 
 ##Crowdfunding (recurring)
-*If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
+*If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund it.*
 
 ####Pros
 * Few strings attached
@@ -105,6 +106,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Companies not always comfortable donating to campaigns
 
 ####Case Studies
+#####Need to check and update
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
@@ -112,11 +114,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Ruby Together](https://rubytogether.org)
 
 ##Books and merchandise
-*If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
+*If your project is something people want to learn about, or it is in a domain that people want to learn about, your project could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
 
 ####Pros
 * Outcome not tied to project work itself, so you retain creative freedom
 * Can serve as marketing for the project itself
+* Can overlap other project documentation and training needs
 * Can be recurring source of revenue after initial development
 
 ####Cons
@@ -125,6 +128,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Merchandise can have upfront costs
 
 ####Case Studies
+#####Need to check and update
 * [Lua](https://www.lua.org/pil/)
 * [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
 * [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
@@ -143,11 +147,13 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Can be a lot of work to find and manage clients
 
 ####Case Studies
+#####Need to check and update
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Hoodie](http://hood.ie/sponsoring/)
 
 ##Industry support
-*Companies sometimes hire individuals to do open source work to support particular projects. Find a company that uses your project, and determine something the project wants to do that the company is willing to put work into*
+*Companies sometimes support particular projects via paying for some development in that project. Find a company that uses your project, and determine something the project wants to do that the company is willing to put work into*
+#####Need to contrast with Consulting & services
 
 ####Pros
 * Taps into those who have resources (i.e. companies)
@@ -160,12 +166,13 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Can affect project dynamics + balance
 
 ####Case Studies
+#####Need to check and update
 * 
 
 ##Grants
-*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to your project's developers, demonstration of impact, a report of the project work, or tax benefits.*
 
-*Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
+*Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give a project a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so the project would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor it. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
 
 ####Pros
 * Fewer strings attached
@@ -177,12 +184,14 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Grants are finite. Still need to find sustainability beyond the life of a grant
 
 ####Case Studies
+#####Need to check and update
 * [Dat](https://usopendata.org/)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 ##Consulting & services
 *A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.*
+#####Need to contrast with Industry support
 
 ####Pros
 * Business model aligned with something people are willing to pay for
@@ -194,12 +203,13 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Project needs to be sufficiently popular that people are willing to pay for related services
 
 ####Case Studies
+#####Need to check and update
 * [Neighbourhoodie](https://neighbourhood.ie/)
 * [Baroque Software](http://baroquesoftware.com/)
 * [OpenSSL](http://openssl.com/what.html)
 
 ##SaaS
-*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself is open source, but you might offer additional paid services that make it easier for people to use your project. One common example of a paid service is charging for hosting.*
+*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself is open source, but the project might offer additional paid services that make it easier for people to use the project. One common example of a paid service is charging for hosting.*
 
 ####Pros
 * Can build community around open project and make money off of services for hosting
@@ -211,6 +221,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * “Two tiers” of product support can make free users unhappy
 
 ####Case Studies
+#####Need to check and update
 * [WordPress.com](http://wordpress.com/)
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
@@ -231,11 +242,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Project needs to be big enough that customer need exists
 
 ####Case Studies
+#####Need to check and update
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
 * [SQLite](https://www.sqlite.org/copyright.html)
 
 ##Open core
-*Under an [open core](https://en.wikipedia.org/wiki/Open_core) model, some aspects of the project are free, but other features are proprietary and available only to paid users. Usually this works when there is enterprise demand for the project.*
+*Under an [open core](https://en.wikipedia.org/wiki/Open_core) (or freemium) model, some aspects of the project are free, but other features are proprietary and available only to paid users. Usually this works when there is enterprise demand for the project.*
 
 ####Pros
 * Business model aligned with something people are willing to pay for
@@ -247,6 +259,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * “Two tiers” of product support can make free users unhappy
 
 ####Case Studies
+#####Need to check and update
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
@@ -266,14 +279,15 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
 
 ####Case Studies
+#####Need to check and update
 * [Ruby Together](http://rubytogether.org/)
 * [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
 
 ##Venture capital
-*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitaists take equity (a percent ownership in your business) in exchange for funding. The tradeoff is that unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitaists take equity (a percent ownership in your business) in exchange for funding. The tradeoff is that unlike taking out a loan, you don't have to repay your creditors if your business tanks. If the project does succeed, however, it should expect to return capital to the investor at a multiple.*
 
-*Venture capital is "high risk high reward": VCs are more risk tolerant than, say, a bank, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
+*Venture capital is "high risk high reward": VCs are more risk tolerant than, say, a bank, but they also expect a large payoff if the project is successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably in Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
 
 ####Pros
 * Institutional support can be helpful for growing a business
@@ -284,6 +298,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Venture capital can change motivations and distract from priorities
 
 ####Case Studies
+#####Need to check and update
 * [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
