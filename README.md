@@ -84,12 +84,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Usually has to be tied to concrete outcome, perks
 * Usually not that much money (~$50K for one time)
 * Companies not always comfortable donating to campaigns
+* Some crowdfunding systems may be set up to pay people, not projects
+* Success in fundraising may depend heavily on developer's reputation, and less on the need for the work to be done
 
 ####Case Studies
-#####Need to check and update
-* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
-* [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser) (This is a fundraiser for a person - is there a good example that's for a project?)
+* [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) (This is a fundraiser for a person - is there a good example that's for a project?)
 * [RESTful WP-CLI](http://poststatus.com/kickstarter-open-source-project/)
 
 ##Crowdfunding (recurring)
