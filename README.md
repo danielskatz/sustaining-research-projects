@@ -182,7 +182,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Grants are finite. Still need to find sustainability beyond the life of a grant
 
 ####Case Studies
-#####Need to check and update
 * [rOpenSci](https://ropensci.org) has [a grant from the Hemlsley Trust](https://ropensci.org/blog/2015/11/19/helmsley-trust-funding/) and is fiscally sponsored by [NumFOCUS](http://www.numfocus.org)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
@@ -201,7 +200,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Project needs to be sufficiently popular that people are willing to pay for related services
 
 ####Case Studies
-#####Need to check and update
 * [Neighbourhoodie](https://neighbourhood.ie/)
 * [Baroque Software](http://baroquesoftware.com/)
 * [OpenSSL](http://openssl.com/what.html)
@@ -219,7 +217,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * “Two tiers” of product support can make free users unhappy
 
 ####Case Studies
-#####Need to check and update
 * [WordPress.com](http://wordpress.com/)
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
@@ -240,7 +237,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Project needs to be big enough that customer need exists
 
 ####Case Studies
-#####Need to check and update
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
 * [SQLite](https://www.sqlite.org/copyright.html)
 
@@ -257,7 +253,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * “Two tiers” of product support can make free users unhappy
 
 ####Case Studies
-#####Need to check and update
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
@@ -277,7 +272,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
 
 ####Case Studies
-#####Need to check and update
 * [Ruby Together](http://rubytogether.org/)
 * [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
@@ -296,7 +290,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Venture capital can change motivations and distract from priorities
 
 ####Case Studies
-#####Need to check and update
 * [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
