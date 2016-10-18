@@ -147,7 +147,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Can be a lot of work to find and manage clients
 
 ####Case Studies
-#####Need to check and update
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Hoodie](http://hood.ie/sponsoring/)
 
@@ -166,7 +165,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Can affect project dynamics + balance
 
 ####Case Studies
-#####Need to check and update
 * 
 
 ##Grants
@@ -185,7 +183,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Case Studies
 #####Need to check and update
-* [Dat](https://usopendata.org/)
+* [rOpenSci](https://ropensci.org) has [a grant from the Hemlsley Trust](https://ropensci.org/blog/2015/11/19/helmsley-trust-funding/) and is fiscally sponsored by [NumFOCUS](http://www.numfocus.org)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
