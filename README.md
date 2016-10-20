@@ -47,6 +47,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ####Cons
 * Ethical concerns (ex., see [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) by Ashe Dryden)
 * Organizing large numbers of volunteers can be difficult
+* In research, there's a smaller volunteer pool with the necessary technical / research knowledge to contribute deeply to a project.
 
 ####Case Studies
 * [Linux Kernel](https://www.kernel.org)
