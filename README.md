@@ -106,11 +106,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Companies not always comfortable donating to campaigns
 
 ####Case Studies
-#####Need to check and update
 * [MochaJS](https://opencollective.com/mochajs)
-* [React-boilerplate](https://opencollective.com/react-boilerplate)
-* [jsbin](https://gratipay.com/jsbin/)
-* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
 
 ##Books and merchandise
@@ -128,11 +124,8 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Merchandise can have upfront costs
 
 ####Case Studies
-#####Need to check and update
 * [Lua](https://www.lua.org/pil/)
-* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
-* [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
-* [Kyle Simpson + You Don't Know JS (personal effort)](https://github.com/getify/You-Dont-Know-JS)
+* [Software Carpentry](http://www.cafepress.com/swcarpentry)
 * [CocoaPods (fundraising for charity)](https://cocoapods.org/socks)
 
 ##Advertising & sponsorships
