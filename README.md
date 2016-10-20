@@ -144,8 +144,8 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Hoodie](http://hood.ie/sponsoring/)
 
 ##Industry support
-*Companies sometimes support particular projects via paying for some development in that project. Find a company that uses your project, and determine something the project wants to do that the company is willing to put work into*
-#####Need to contrast with Consulting & services
+*Companies sometimes support particular projects via paying for some development in that project. Find a company that uses your project, and determine something the project wants to do that the company is willing to put work into.  (Note that this might
+overlap Consulting & services below.) *
 
 ####Pros
 * Taps into those who have resources (i.e. companies)
@@ -161,8 +161,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * 
 
 ##Consulting & services
-*A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.*
-#####Need to contrast with Industry support
+*A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.   (Note that this might overlap Industry support above.) *
 
 ####Pros
 * Business model aligned with something people are willing to pay for
