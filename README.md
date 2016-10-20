@@ -158,7 +158,7 @@ overlap Consulting & services below.)*
 * Can affect project dynamics + balance
 
 ####Case Studies
-* 
+* (examples needed)
 
 ##Consulting & services
 *A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.   (Note that this might overlap Industry support above.)*
@@ -194,7 +194,6 @@ overlap Consulting & services below.)*
 
 ####Case Studies
 * [rOpenSci](https://ropensci.org) has [a grant from the Hemlsley Trust](https://ropensci.org/blog/2015/11/19/helmsley-trust-funding/) and is fiscally sponsored by [NumFOCUS](http://www.numfocus.org)
-* [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 
