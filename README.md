@@ -24,8 +24,8 @@ The categories are not mutually exclusive. For example, a project might have a f
 5. [Books and merchandise](#books-and-merchandise)
 6. [Advertising & sponsorships](#advertising--sponsorships)
 7. [Industry support](#industry-support)
-8. [Grants](#grants)
-9. [Consulting & services](#consulting--services)
+8. [Consulting & services](#consulting--services)
+9. [Grants](#grants)
 10. [SaaS](#saas)
 11. [Dual license](#dual-license)
 12. [Open core](#open-core)
@@ -160,6 +160,25 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ####Case Studies
 * 
 
+##Consulting & services
+*A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.*
+#####Need to contrast with Industry support
+
+####Pros
+* Business model aligned with something people are willing to pay for
+
+####Cons
+* Consulting requires human power, doesn’t scale well (except for rare outliers)
+* Business needs can distract from writing code or other tasks related to the project itself
+* Can be at odds with making software simple to use
+* Project needs to be sufficiently popular that people are willing to pay for related services
+
+####Case Studies
+* [Neighbourhoodie](https://neighbourhood.ie/)
+* [Baroque Software](http://baroquesoftware.com/)
+* [OpenSSL](http://openssl.com/what.html)
+
+
 ##Grants
 *Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to your project's developers, demonstration of impact, a report of the project work, or tax benefits.*
 
@@ -179,23 +198,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
-##Consulting & services
-*A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.*
-#####Need to contrast with Industry support
-
-####Pros
-* Business model aligned with something people are willing to pay for
-
-####Cons
-* Consulting requires human power, doesn’t scale well (except for rare outliers)
-* Business needs can distract from writing code or other tasks related to the project itself
-* Can be at odds with making software simple to use
-* Project needs to be sufficiently popular that people are willing to pay for related services
-
-####Case Studies
-* [Neighbourhoodie](https://neighbourhood.ie/)
-* [Baroque Software](http://baroquesoftware.com/)
-* [OpenSSL](http://openssl.com/what.html)
 
 ##SaaS
 *SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself is open source, but the project might offer additional paid services that make it easier for people to use the project. One common example of a paid service is charging for hosting.*
