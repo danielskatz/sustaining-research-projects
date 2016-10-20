@@ -232,6 +232,7 @@ overlap Consulting & services below.)*
 
 ####Case Studies
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
+* [Sidekiq](http://sidekiq.org/products/pro)
 * [SQLite](https://www.sqlite.org/copyright.html)
 
 ##Open core
