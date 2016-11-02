@@ -89,8 +89,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Success in fundraising may depend heavily on developer's reputation, and less on the need for the work to be done
 
 ####Case Studies
-* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser) (This is a fundraiser for a person - is there a good example that's for a project?)
-* [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) (This is a fundraiser for a person - is there a good example that's for a project?)
+* [Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [RESTful WP-CLI](http://poststatus.com/kickstarter-open-source-project/)
 
 ##Crowdfunding (recurring)
