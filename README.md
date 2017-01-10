@@ -144,12 +144,15 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Hoodie](http://hood.ie/sponsoring/)
 
 ##Industry support
-*Companies sometimes support particular projects via paying for some development in that project. Find a company that uses your project, and determine something the project wants to do that the company is willing to put work into.  (Note that this might
-overlap Consulting & services below.)*
+*Companies sometimes support particular projects via paying for some development in that project, 
+or by supporting a PhD or researcher to undertake a specific development project. 
+Find a company that uses your project, and determine something the project wants to do that the company is willing to put work into.  
+(Note that this might overlap Consulting & services below.)*
 
 ####Pros
 * Taps into those who have resources (i.e. companies)
 * Can be well-aligned with company needs
+* In certain areas, industrial support for PhD or researcher positions is already an established mechanism
 
 ####Cons
 * Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
@@ -158,7 +161,7 @@ overlap Consulting & services below.)*
 * Can affect project dynamics + balance
 
 ####Case Studies
-* (examples needed)
+* [BoneJ](http://www.bbsrc.ac.uk/documents/1701-bone-biology-software-pdf/) - with [F + P Specialist Modelling Group](http://www.fosterandpartners.com/designservices/research/specialist-modelling-group/)
 
 ##Consulting & services
 *A project can offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.  This could also be done as a service that is written in the client's grant proposals.   (Note that this might overlap Industry support above.)*
