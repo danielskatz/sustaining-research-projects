@@ -27,11 +27,12 @@ The categories are not mutually exclusive. For example, a project might have a f
 8. [Consulting & services](#consulting--services)
 9. [Grants](#grants)
 10. [SaaS](#saas)
-11. [Dual license](#dual-license)
-12. [Open core](#open-core)
-13. [Foundations & consortiums](#foundations--consortiums)
-14. [Venture capital](#venture-capital)
-15. [Trademark licensing & Franchising](#trademark-licensing--franchising)
+11. [Membership](#membership)
+12. [Dual license](#dual-license)
+13. [Open core](#open-core)
+14. [Foundations & consortiums](#foundations--consortiums)
+15. [Venture capital](#venture-capital)
+16. [Trademark licensing & Franchising](#trademark-licensing--franchising)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
@@ -221,6 +222,29 @@ Find a company that uses your project, and determine something the project wants
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
 
+
+##Membership
+
+Software (and any SaaS provided) is open source and free to use, but an organization can pay (e.g. a larger fixed annual fee) to become an official _member_ or _supporter_ of the project. Membership give additional benefits such as having a stronger say in political or technical decisions, early access to development versions, larger usage quotas, custom integrations (e.g. single sign on) and kudos by being officially listed.
+
+####Pros
+* Encourages stronger engagement from members
+* Public visibility of supporters
+* Larger contributions give a more reliable income stream
+
+####Cons
+* Members will ask for influence, but how to prioritize between them?
+* Difficult to "sell" membership if you don't already have other big names on your member list
+* Danger of community split with those who can't gain membership status
+
+
+
+
+#### Case Studies
+* [ORCID](https://orcid.org/members)
+* [OpenPHACTS Foundation](http://www.openphactsfoundation.org/join/)
+
+
 ##Dual License
 *Sometimes, projects offer an identical codebase with two different licenses: one that is commercially-friendly, and one that is less so (ex. GPL). The latter is free for anyone to use, but companies pay for the commercial license in order to have legal peace of mind.*
 
@@ -262,6 +286,7 @@ Find a company that uses your project, and determine something the project wants
 * Neutrality. Foundation protects the code and helps steward community
 * Influence distributed across multiple donors
 * Can legitimize project, companies might feel more comfortable giving to foundations than individuals
+* Foundation can apply indepentendly for research/government grants
 
 ####Cons
 * Only really worth it for big projects
