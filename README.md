@@ -280,23 +280,30 @@ Software (and any SaaS provided) is open source and free to use, but an organiza
 * [Sidekiq](http://sidekiq.org/)
 
 ##Foundations & consortiums
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3)s require demonstrating a charitable purpose, which can be more difficult in software.*
+*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations and be the legal owner of the Intellectual Property rights. Because their purpose is not to make a profit, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3)s require demonstrating a charitable purpose, which can be more difficult in software.*
 
 ####Pros
 * Neutrality. Foundation protects the code and helps steward community
+  * Lowers barrier to sign Contributer License Agreements
+* Can encourage _Open Governance_ (you'll need to decide on foundation board, directors and rules)
 * Influence distributed across multiple donors
 * Can legitimize project, companies might feel more comfortable giving to foundations than individuals
+* Channel funds into a pot to then distribute back out to partners and third-parties
 * Foundation can apply indepentendly for research/government grants
 
 ####Cons
-* Only really worth it for big projects
-* Difficult to set up for IRS reasons (many do 501(c)(6) instead of 501(c)(3)), restrictions on what you can do
+* Bureaucracy and legal overhead (e.g. which country to start foundation in?)
+* Only really worth it for big projects (high upstart costs)
+* Difficult to set up for tax reasons (in US many do 501(c)(6) instead of 501(c)(3)), restrictions on what you can do
+  * The foundation might be restricted on how to spend donated funds
 * Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
 
 ####Case Studies
 * [Ruby Together](http://rubytogether.org/)
 * [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
+* [Apache Software Foundation](http://apache.org/foundation/)
+* [Open PHACTS Foundation](http://www.openphactsfoundation.org/)
 
 ##Venture capital
 *Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitaists take equity (a percent ownership in your business) in exchange for funding. The tradeoff is that unlike taking out a loan, you don't have to repay your creditors if your business tanks. If the project does succeed, however, it should expect to return capital to the investor at a multiple.*
