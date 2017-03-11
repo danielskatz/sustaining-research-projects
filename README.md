@@ -225,7 +225,7 @@ Find a company that uses your project, and determine something the project wants
 
 ##Membership
 
-Software (and any SaaS provided) is open source and free to use, but an organization can pay (e.g. a larger fixed annual fee) to become an official _member_ or _supporter_ of the project. Membership give additional benefits such as having a stronger say in political or technical decisions, early access to development versions, larger usage quotas, custom integrations (e.g. single sign on) and kudos by being officially listed.
+Software (and any SaaS provided) is open source and free to use, but an organization can pay (e.g., a larger fixed annual fee) to become an official _member_ or _supporter_ or _partner_ of the project. Membership give additional benefits such as having a stronger say in political or technical decisions, early access to development versions, larger usage quotas, custom integrations (e.g., single sign on), on-site training, and kudos by being officially listed.  Membership may also be available at various levels (e.g., bronze, silver, gold.)
 
 ####Pros
 * Encourages stronger engagement from members
@@ -237,12 +237,10 @@ Software (and any SaaS provided) is open source and free to use, but an organiza
 * Difficult to "sell" membership if you don't already have other big names on your member list
 * Danger of community split with those who can't gain membership status
 
-
-
-
 #### Case Studies
 * [ORCID](https://orcid.org/members)
 * [OpenPHACTS Foundation](http://www.openphactsfoundation.org/join/)
+* [Data Carpentry](http://www.datacarpentry.org/partnerships/)
 
 
 ##Dual License
