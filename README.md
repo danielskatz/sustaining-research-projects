@@ -21,7 +21,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 2. [Donation button](#donation-button)
 3. [Crowdfunding (one-time)](#crowdfunding-one-time)
 4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Books and merchandise](#books-and-merchandise)
+5. [Books & merchandise](#books-and-merchandise)
 6. [Advertising & sponsorships](#advertising--sponsorships)
 7. [Industry support](#industry-support)
 8. [Consulting & services](#consulting--services)
@@ -110,7 +110,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [MochaJS](https://opencollective.com/mochajs)
 * [Ruby Together](https://rubytogether.org)
 
-##Books and merchandise
+##Books & merchandise
 *If your project is something people want to learn about, or it is in a domain that people want to learn about, your project could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
 
 ####Pros
