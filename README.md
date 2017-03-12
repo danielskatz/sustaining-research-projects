@@ -32,7 +32,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 13. [Open core](#open-core)
 14. [Foundations & consortiums](#foundations--consortiums)
 15. [Venture capital](#venture-capital)
-16. [Trademark licensing & Franchising](#trademark-licensing--franchising)
+16. [Trademark licensing & franchising](#trademark-licensing--franchising)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 
@@ -322,7 +322,7 @@ Software (and any SaaS provided) is open source and free to use, but an organiza
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
 
-##Trademark licensing & Franchising
+##Trademark licensing & franchising
 *If a FOSS project has a well-known name and large user community, it can potentially capitalize on its trademark as a form of intellectual property to license out to franchises that provide support or hardware appliances that use the software.*
 
 ####Pros
