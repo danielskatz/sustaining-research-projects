@@ -280,6 +280,8 @@ Software (and any SaaS provided) is open source and free to use, but an organiza
 ## Foundations & consortiums
 *A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations and be the legal owner of the Intellectual Property rights. Because their purpose is not to make a profit, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3)s require demonstrating a charitable purpose, which can be more difficult in software.*
 
+*For a detailed discussion about this topic, see: Bavitz, Christopher; Topelson Ritvo, Dalia & Hessekiel, Kira. Organization & Structure of Open Source Software Development Initiatives: Challenges & Opportunities Concerning Corporate Formation, Nonprofit Status, & Governance for Open Source Projects (March 2017). Berkman Klein Center Research Publication. Available at: https://dash.harvard.edu/handle/1/30805146*
+
 #### Pros
 * Neutrality. Foundation protects the code and helps steward community
   * Lowers barrier to sign Contributer License Agreements
