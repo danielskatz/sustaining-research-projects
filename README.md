@@ -199,6 +199,7 @@ Find a company that uses your project, and determine something the project wants
 #### Case Studies
 * [rOpenSci](https://ropensci.org) has [a grant from the Hemlsley Trust](https://ropensci.org/blog/2015/11/19/helmsley-trust-funding/) and is fiscally sponsored by [NumFOCUS](http://www.numfocus.org)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
+* [Libraries.io grant applications](https://github.com/librariesio/supporters)
 
 
 ## SaaS
