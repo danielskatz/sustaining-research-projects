@@ -340,8 +340,8 @@ support and training. This makes it a better fit for software that is
 complex to setup and maintain.
 
 #### Case Studies
-* [Moodle] (https://moodle.com/trademarks/)
-* [Red Hat] (https://www.redhat.com/en/about/trademark-guidelines-and-policies)
+* [Moodle](https://moodle.com/trademarks/)
+* [Red Hat](https://www.redhat.com/en/about/trademark-guidelines-and-policies)
 
 ---
 
