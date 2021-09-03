@@ -34,7 +34,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 15. [Venture capital](#venture-capital)
 16. [Trademark licensing & franchising](#trademark-licensing--franchising)
 
-APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
+APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution) // [Other resources](#other-resources)
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
@@ -350,3 +350,6 @@ As with [the original](https://github.com/nayafia/lemonade-stand) from [@nayafia
 
 ### License and attribution
 This guide is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain).
+
+### Other resources
+* Okoli, Chitu and Nguyen, An, Business Models for Free and Open Source Software: Insights from a Delphi Study (August 15, 2015). Proceedings of the 21st Americas Conference on Information Systems, Puerto Rico, August 13-15, 2015, Available at SSRN: https://ssrn.com/abstract=2769875
