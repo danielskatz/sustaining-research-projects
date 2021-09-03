@@ -357,3 +357,4 @@ This guide is available under the Creative Commons CC0 1.0 License, meaning you 
 
 #### Other resources
 * Okoli, Chitu and Nguyen, An, Business Models for Free and Open Source Software: Insights from a Delphi Study (August 15, 2015). Proceedings of the 21st Americas Conference on Information Systems, Puerto Rico, August 13-15, 2015, Available at SSRN: https://ssrn.com/abstract=2769875
+* Ye, Y., “Open Source Software Sustainability Models: Initial White Paper from the Informatics Technology for Cancer Research Sustainability and Industry Partnership Work Group”, arXiv, 2019. https://arxiv.org/abs/1912.12371
